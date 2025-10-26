@@ -26,7 +26,7 @@ export default function App() {
           ))}
         </div>
       </div>
-      <div>
+      <div className="Table">
         <tr>
           <th>Index</th>
           <th>ID</th>
